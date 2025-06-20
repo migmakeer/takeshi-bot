@@ -1,13 +1,13 @@
 const path = require("path");
 
 // Prefixo dos comandos.
-exports.PREFIX = "/";
+exports.PREFIX = "=";
 
 // Emoji do bot (mude se preferir).
-exports.BOT_EMOJI = "🤖";
+exports.BOT_EMOJI = "〽️";
 
 // Nome do bot (mude se preferir).
-exports.BOT_NAME = "Takeshi Bot";
+exports.BOT_NAME = "Storm Maker";
 
 // Número do bot. Coloque o número do bot
 // (apenas números, exatamente como está no WhatsApp).
