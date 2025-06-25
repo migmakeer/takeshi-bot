@@ -1,13 +1,13 @@
 const path = require("path");
 
 // Prefixo dos comandos.
-exports.PREFIX = "/";
+exports.PREFIX = "\";
 
 // Emoji do bot (mude se preferir).
-exports.BOT_EMOJI = "🤖";
+exports.BOT_EMOJI = "〽️";
 
 // Nome do bot (mude se preferir).
-exports.BOT_NAME = "Takeshi Bot";
+exports.BOT_NAME = "MAKER";
 
 // Número do bot.
 // Apenas números, exatamente como está no WhatsApp.
@@ -42,7 +42,7 @@ exports.TIMEOUT_IN_MILLISECONDS_BY_EVENT = 300;
 exports.SPIDER_API_BASE_URL = "https://api.spiderx.com.br/api";
 
 // Obtenha seu token, criando uma conta em: https://api.spiderx.com.br.
-exports.SPIDER_API_TOKEN = "seu_token_aqui";
+exports.SPIDER_API_TOKEN = "zMkgRrP5qJ1Z3JyFa7se";
 
 // Caso queira responder apenas um grupo específico,
 // coloque o ID dele na configuração abaixo.
